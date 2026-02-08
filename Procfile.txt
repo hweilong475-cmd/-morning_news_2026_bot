@@ -1,1 +1,1 @@
-main.py
+worker: python -u morning_briefing_bot.py
